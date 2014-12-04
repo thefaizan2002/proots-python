@@ -21,7 +21,6 @@ if __name__ == '__main__':
     main()
 
 import math
-import cmath
 
 def isNotPrime(number):
 
